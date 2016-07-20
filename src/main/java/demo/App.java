@@ -21,6 +21,6 @@ class Pet
 	}
 	public void bark()
 	{
-		System.out.println("Peter says aw! aw!");
+		System.out.println("Peter says aw aw!");
 	}
 }
